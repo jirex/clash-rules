@@ -1,3 +1,4 @@
 payload:
   # > Personal
   - DOMAIN,developer.apple.com
+  - DOMAIN-KEYWORD,hub.docker.com
