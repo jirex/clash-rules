@@ -2,3 +2,7 @@ payload:
   # > Personal
   - DOMAIN,developer.apple.com
   - DOMAIN-KEYWORD,hub.docker.com
+  - DOMAIN,api.mapbox.com
+  - DOMAIN,download.itoolab.com
+  - DOMAIN,order.luckydogsoft.com
+
