@@ -1,3 +1,4 @@
 payload:
   # > Personal direct
   - DOMAIN-KEYWORD,feishu
+  - DOMAIN-KEYWORD,cloudpowerall
