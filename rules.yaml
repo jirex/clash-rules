@@ -4,5 +4,6 @@ payload:
   - DOMAIN-KEYWORD,hub.docker.com
   - DOMAIN,api.mapbox.com
   - DOMAIN,download.itoolab.com
+  - DOMAIN,dl.google.com
   - DOMAIN,order.luckydogsoft.com
 
