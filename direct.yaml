@@ -3,3 +3,4 @@ payload:
   - DOMAIN-KEYWORD,feishu
   - DOMAIN-KEYWORD,cloudpowerall
   - DOMAIN-KEYWORD,v4.myip.la
+  - DOMAIN,storybird.s3.amazonaws.com
