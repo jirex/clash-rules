@@ -3,4 +3,8 @@ payload:
   - DOMAIN-KEYWORD,feishu
   - DOMAIN-KEYWORD,cloudpowerall
   - DOMAIN-KEYWORD,v4.myip.la
+  - DOMAIN-KEYWORD,npr.org
+  - DOMAIN-KEYWORD,simplecastaudio.com
+  - DOMAIN-KEYWORD,prxu.org
+  - DOMAIN-KEYWORD,fireside.fm
   - DOMAIN,storybird.s3.amazonaws.com
