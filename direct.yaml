@@ -10,3 +10,6 @@ payload:
   - DOMAIN-KEYWORD,prxu.org
   - DOMAIN-KEYWORD,fireside.fm
   - DOMAIN,storybird.s3.amazonaws.com
+  - DOMAIN,github.com.cnpmjs.org
+  - DOMAIN,doc.fastgit.org
+  - DOMAIN,gitclone.com
